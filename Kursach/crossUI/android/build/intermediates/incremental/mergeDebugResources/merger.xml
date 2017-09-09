@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="1.2.0$Generated" generated="true"><source path="/Users/svatoslav/Desktop/Kursach/crossUI/android/build/intermediates/exploded-aar/de.tomgrill.gdxdialogs/gdx-dialogs-android/1.2.0/res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="/Users/svatoslav/Desktop/Kursach/crossUI/android/res"/><source path="/Users/svatoslav/Desktop/Kursach/crossUI/android/build/generated/res/rs/debug"/><source path="/Users/svatoslav/Desktop/Kursach/crossUI/android/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/svatoslav/Desktop/Kursach/crossUI/android/src/debug/res"/></dataSet><dataSet config="1.2.0" from-dependency="true" generated-set="1.2.0$Generated"><source path="/Users/svatoslav/Desktop/Kursach/crossUI/android/build/intermediates/exploded-aar/de.tomgrill.gdxdialogs/gdx-dialogs-android/1.2.0/res"><file name="gdxdialogs_inputtext" path="/Users/svatoslav/Desktop/Kursach/crossUI/android/build/intermediates/exploded-aar/de.tomgrill.gdxdialogs/gdx-dialogs-android/1.2.0/res/layout/gdxdialogs_inputtext.xml" qualifiers="" type="layout"/><file name="gdxdialogs_inputtext" path="/Users/svatoslav/Desktop/Kursach/crossUI/android/build/intermediates/exploded-aar/de.tomgrill.gdxdialogs/gdx-dialogs-android/1.2.0/res/layout-v14/gdxdialogs_inputtext.xml" qualifiers="v14" type="layout"/><file path="/Users/svatoslav/Desktop/Kursach/crossUI/android/build/intermediates/exploded-aar/de.tomgrill.gdxdialogs/gdx-dialogs-android/1.2.0/res/values-v11/values-v11.xml" qualifiers="v11"><style name="GdxTheme" parent="android:Theme.Holo">
+		<item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+    </style></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/svatoslav/Desktop/Kursach/crossUI/android/res"><file name="ic_launcher" path="/Users/svatoslav/Desktop/Kursach/crossUI/android/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/svatoslav/Desktop/Kursach/crossUI/android/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/svatoslav/Desktop/Kursach/crossUI/android/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/svatoslav/Desktop/Kursach/crossUI/android/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/svatoslav/Desktop/Kursach/crossUI/android/res/drawable-xxxhdpi/ic_launcher.png" qualifiers="xxxhdpi-v4" type="drawable"/><file path="/Users/svatoslav/Desktop/Kursach/crossUI/android/res/values/colors.xml" qualifiers=""><color name="primary">#006fc0</color><color name="primaryDark">#00458f</color></file><file path="/Users/svatoslav/Desktop/Kursach/crossUI/android/res/values/strings.xml" qualifiers=""><string name="app_name">LetterCrush</string></file><file path="/Users/svatoslav/Desktop/Kursach/crossUI/android/res/values/styles.xml" qualifiers=""><style name="GdxThemeBase" parent="android:Theme.DeviceDefault">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">false</item>
+
+        
+        <item name="android:dialogTheme">@style/DialogLight</item>
+
+        
+        <item name="android:alertDialogTheme">@style/DialogLight</item>
+    </style><style name="GdxTheme" parent="GdxThemeBase">
+
+    </style><style name="DialogLight" parent="android:Theme.DeviceDefault.Light.Dialog">
+
+    </style></file><file path="/Users/svatoslav/Desktop/Kursach/crossUI/android/res/values-v21/styles.xml" qualifiers="v21"><style name="GdxTheme" parent="GdxThemeBase">
+        <item name="android:colorPrimaryDark">@color/primaryDark</item>>
+    </style></file></source><source path="/Users/svatoslav/Desktop/Kursach/crossUI/android/build/generated/res/rs/debug"/><source path="/Users/svatoslav/Desktop/Kursach/crossUI/android/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/svatoslav/Desktop/Kursach/crossUI/android/src/debug/res"/></dataSet><mergedItems/></merger>

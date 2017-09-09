@@ -1,0 +1,6 @@
+<game lastScore="4">
+	<letter i="2" j="0" is_flying="true" text="Ж" x="160.0" y="28.323893"/>
+	<letter i="3" j="0" is_flying="false" text="И" x="240.0" y="640.0"/>
+	<letter i="4" j="0" is_flying="false" text="О" x="320.0" y="640.0"/>
+	<letter i="5" j="0" is_flying="false" text="Б" x="400.0" y="640.0"/>
+</game>
